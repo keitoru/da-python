@@ -2,7 +2,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
-%matplotlib inline
+
 #设置中文编码和负号的正常显示
 plt.rcParams['font.family']='Microsoft YaHei'
 plt.rcParams['axes.unicode_minus'] = False
